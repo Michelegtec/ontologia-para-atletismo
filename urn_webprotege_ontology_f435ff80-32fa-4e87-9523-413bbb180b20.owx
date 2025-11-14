@@ -1,0 +1,828 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="urn:webprotege:ontology:f435ff80-32fa-4e87-9523-413bbb180b20"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="urn:webprotege:ontology:f435ff80-32fa-4e87-9523-413bbb180b20">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R1lWRrVTHyXWVs3wsuuXDx"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R77ktyGMOdWU1vpkUx2Lthz"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7KgkKctwIiORPf3bRTi9G4"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7q0aYMt8gGQG6Tp8ZM7MgD"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8KeSP8kZnH9EDkv6Mafwt0"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9OjjIaFCaiy8K99mJBn7jH"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9VJ0fxu6Kw85JiRy680n1J"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9fw01aZbXxbzmwYrSV9WNz"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RB3EEnOdJpZscRU3kK1zhTX"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBCYmeNc3KKGrsWCS1Whafl"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBUNDcJKyZ5TJ5Jrdrj2dC7"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCENgozT6DCIUBZekGVyIxi"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RChFV94KyjT3bIz0ZJi1NCO"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RT0sf820xec6jWNAeg2K5z"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RYjg9TRBzMt10gaJhLCdbA"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RjJxJ7BpUr1LxxDEqZNm1q"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RnLn0iIJI0kgKPz7sevHBG"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RvYHjCyCCyzDFPL3t3DTB7"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RyyxwUyT61WZqkb54OGs5i"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R78AeIpE8mJS1NqVsYOjw7D"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R8KhoT3oEv7nZ7lkyv0RIw3"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R8hAfAF6fi9tMoLfr4WslYo"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RCujilZIJmQIiuUl2ivCURA"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RDMdNCNk14qV9QNbxBAf7YE"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RZDLwD6EA1H9ceZxgm3XYZ"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RoBJgFY23H0ADFID9USFvy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R7U3hWCqrRVbYXsDIH53glF"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCVheWGQEi8XacbGW584jw1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RD1L2sWaMLKOYpTg4uIdnrX"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RDpv05a4QFMXwH6pjk9CQsT"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RSZdyaYGAXJvAVS39PKPi1"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R1lWRrVTHyXWVs3wsuuXDx"/>
+        <Class IRI="http://webprotege.stanford.edu/R9OjjIaFCaiy8K99mJBn7jH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R77ktyGMOdWU1vpkUx2Lthz"/>
+        <Class IRI="http://webprotege.stanford.edu/RyyxwUyT61WZqkb54OGs5i"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7KgkKctwIiORPf3bRTi9G4"/>
+        <Class IRI="http://webprotege.stanford.edu/R9OjjIaFCaiy8K99mJBn7jH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7q0aYMt8gGQG6Tp8ZM7MgD"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8KeSP8kZnH9EDkv6Mafwt0"/>
+        <Class IRI="http://webprotege.stanford.edu/RChFV94KyjT3bIz0ZJi1NCO"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9OjjIaFCaiy8K99mJBn7jH"/>
+        <Class IRI="http://webprotege.stanford.edu/R7q0aYMt8gGQG6Tp8ZM7MgD"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9VJ0fxu6Kw85JiRy680n1J"/>
+        <Class IRI="http://webprotege.stanford.edu/RYjg9TRBzMt10gaJhLCdbA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9fw01aZbXxbzmwYrSV9WNz"/>
+        <Class IRI="http://webprotege.stanford.edu/R9VJ0fxu6Kw85JiRy680n1J"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RB3EEnOdJpZscRU3kK1zhTX"/>
+        <Class IRI="http://webprotege.stanford.edu/RChFV94KyjT3bIz0ZJi1NCO"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBCYmeNc3KKGrsWCS1Whafl"/>
+        <Class IRI="http://webprotege.stanford.edu/RChFV94KyjT3bIz0ZJi1NCO"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBUNDcJKyZ5TJ5Jrdrj2dC7"/>
+        <Class IRI="http://webprotege.stanford.edu/R7q0aYMt8gGQG6Tp8ZM7MgD"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBUNDcJKyZ5TJ5Jrdrj2dC7"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R8hAfAF6fi9tMoLfr4WslYo"/>
+            <Class IRI="http://webprotege.stanford.edu/R1lWRrVTHyXWVs3wsuuXDx"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBUNDcJKyZ5TJ5Jrdrj2dC7"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R8hAfAF6fi9tMoLfr4WslYo"/>
+            <Class IRI="http://webprotege.stanford.edu/R7KgkKctwIiORPf3bRTi9G4"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBUNDcJKyZ5TJ5Jrdrj2dC7"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R8hAfAF6fi9tMoLfr4WslYo"/>
+            <Class IRI="http://webprotege.stanford.edu/RjJxJ7BpUr1LxxDEqZNm1q"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBUNDcJKyZ5TJ5Jrdrj2dC7"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RoBJgFY23H0ADFID9USFvy"/>
+            <Class IRI="http://webprotege.stanford.edu/R9fw01aZbXxbzmwYrSV9WNz"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBUNDcJKyZ5TJ5Jrdrj2dC7"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RoBJgFY23H0ADFID9USFvy"/>
+            <Class IRI="http://webprotege.stanford.edu/RT0sf820xec6jWNAeg2K5z"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCENgozT6DCIUBZekGVyIxi"/>
+        <Class IRI="http://webprotege.stanford.edu/RYjg9TRBzMt10gaJhLCdbA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RChFV94KyjT3bIz0ZJi1NCO"/>
+        <Class IRI="http://webprotege.stanford.edu/RBUNDcJKyZ5TJ5Jrdrj2dC7"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RT0sf820xec6jWNAeg2K5z"/>
+        <Class IRI="http://webprotege.stanford.edu/R9VJ0fxu6Kw85JiRy680n1J"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RYjg9TRBzMt10gaJhLCdbA"/>
+        <Class IRI="http://webprotege.stanford.edu/R7q0aYMt8gGQG6Tp8ZM7MgD"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RjJxJ7BpUr1LxxDEqZNm1q"/>
+        <Class IRI="http://webprotege.stanford.edu/R9OjjIaFCaiy8K99mJBn7jH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RnLn0iIJI0kgKPz7sevHBG"/>
+        <Class IRI="http://webprotege.stanford.edu/RyyxwUyT61WZqkb54OGs5i"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RvYHjCyCCyzDFPL3t3DTB7"/>
+        <Class IRI="http://webprotege.stanford.edu/RYjg9TRBzMt10gaJhLCdbA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RyyxwUyT61WZqkb54OGs5i"/>
+        <Class IRI="http://webprotege.stanford.edu/R7q0aYMt8gGQG6Tp8ZM7MgD"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/R9fw01aZbXxbzmwYrSV9WNz"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R7U3hWCqrRVbYXsDIH53glF"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/RvYHjCyCCyzDFPL3t3DTB7"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCVheWGQEi8XacbGW584jw1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/R1lWRrVTHyXWVs3wsuuXDx"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RD1L2sWaMLKOYpTg4uIdnrX"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/RCENgozT6DCIUBZekGVyIxi"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RDpv05a4QFMXwH6pjk9CQsT"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R8KhoT3oEv7nZ7lkyv0RIw3"/>
+            <Class IRI="http://webprotege.stanford.edu/RvYHjCyCCyzDFPL3t3DTB7"/>
+        </ObjectSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RDpv05a4QFMXwH6pjk9CQsT"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/RBCYmeNc3KKGrsWCS1Whafl"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RSZdyaYGAXJvAVS39PKPi1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/RChFV94KyjT3bIz0ZJi1NCO"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RSZdyaYGAXJvAVS39PKPi1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RDMdNCNk14qV9QNbxBAf7YE"/>
+            <Class IRI="http://webprotege.stanford.edu/R9fw01aZbXxbzmwYrSV9WNz"/>
+        </ObjectSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RSZdyaYGAXJvAVS39PKPi1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RoBJgFY23H0ADFID9USFvy"/>
+            <Class IRI="http://webprotege.stanford.edu/RnLn0iIJI0kgKPz7sevHBG"/>
+        </ObjectSomeValuesFrom>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RSZdyaYGAXJvAVS39PKPi1"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RCujilZIJmQIiuUl2ivCURA"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RDpv05a4QFMXwH6pjk9CQsT"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R7U3hWCqrRVbYXsDIH53glF"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R78AeIpE8mJS1NqVsYOjw7D"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RSZdyaYGAXJvAVS39PKPi1"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCVheWGQEi8XacbGW584jw1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R8hAfAF6fi9tMoLfr4WslYo"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RSZdyaYGAXJvAVS39PKPi1"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RD1L2sWaMLKOYpTg4uIdnrX"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RDMdNCNk14qV9QNbxBAf7YE"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RSZdyaYGAXJvAVS39PKPi1"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R7U3hWCqrRVbYXsDIH53glF"/>
+    </ObjectPropertyAssertion>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R78AeIpE8mJS1NqVsYOjw7D"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R8KhoT3oEv7nZ7lkyv0RIw3"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R8hAfAF6fi9tMoLfr4WslYo"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RCujilZIJmQIiuUl2ivCURA"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RDMdNCNk14qV9QNbxBAf7YE"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RZDLwD6EA1H9ceZxgm3XYZ"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RoBJgFY23H0ADFID9USFvy"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R78AeIpE8mJS1NqVsYOjw7D"/>
+        <Class IRI="http://webprotege.stanford.edu/RYjg9TRBzMt10gaJhLCdbA"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R8KhoT3oEv7nZ7lkyv0RIw3"/>
+        <Class IRI="http://webprotege.stanford.edu/RCENgozT6DCIUBZekGVyIxi"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R8hAfAF6fi9tMoLfr4WslYo"/>
+        <Class IRI="http://webprotege.stanford.edu/RBUNDcJKyZ5TJ5Jrdrj2dC7"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RCujilZIJmQIiuUl2ivCURA"/>
+        <Class IRI="http://webprotege.stanford.edu/RCENgozT6DCIUBZekGVyIxi"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RDMdNCNk14qV9QNbxBAf7YE"/>
+        <Class IRI="http://webprotege.stanford.edu/RBUNDcJKyZ5TJ5Jrdrj2dC7"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RZDLwD6EA1H9ceZxgm3XYZ"/>
+        <Class IRI="http://webprotege.stanford.edu/RYjg9TRBzMt10gaJhLCdbA"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RoBJgFY23H0ADFID9USFvy"/>
+        <Class IRI="http://webprotege.stanford.edu/RBUNDcJKyZ5TJ5Jrdrj2dC7"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R78AeIpE8mJS1NqVsYOjw7D"/>
+        <Class IRI="http://webprotege.stanford.edu/RvYHjCyCCyzDFPL3t3DTB7"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R8KhoT3oEv7nZ7lkyv0RIw3"/>
+        <Class IRI="http://webprotege.stanford.edu/RvYHjCyCCyzDFPL3t3DTB7"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R8hAfAF6fi9tMoLfr4WslYo"/>
+        <Class IRI="http://webprotege.stanford.edu/R9OjjIaFCaiy8K99mJBn7jH"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RCujilZIJmQIiuUl2ivCURA"/>
+        <Class IRI="http://webprotege.stanford.edu/RYjg9TRBzMt10gaJhLCdbA"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RDMdNCNk14qV9QNbxBAf7YE"/>
+        <Class IRI="http://webprotege.stanford.edu/RYjg9TRBzMt10gaJhLCdbA"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RZDLwD6EA1H9ceZxgm3XYZ"/>
+        <Class IRI="http://webprotege.stanford.edu/RCENgozT6DCIUBZekGVyIxi"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RoBJgFY23H0ADFID9USFvy"/>
+        <Class IRI="http://webprotege.stanford.edu/RyyxwUyT61WZqkb54OGs5i"/>
+    </ObjectPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/R1lWRrVTHyXWVs3wsuuXDx</IRI>
+        <Literal>record for a Paralympic competition</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R1lWRrVTHyXWVs3wsuuXDx</IRI>
+        <Literal>ParalympicRecord</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/R77ktyGMOdWU1vpkUx2Lthz</IRI>
+        <Literal>Athlete of field (F)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R77ktyGMOdWU1vpkUx2Lthz</IRI>
+        <Literal>FieldClassification</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R78AeIpE8mJS1NqVsYOjw7D</IRI>
+        <Literal>hasResult</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/R7KgkKctwIiORPf3bRTi9G4</IRI>
+        <Literal>personal record in a competition</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7KgkKctwIiORPf3bRTi9G4</IRI>
+        <Literal>PersonalRecord</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/R7U3hWCqrRVbYXsDIH53glF</IRI>
+        <IRI>https://www.wikidata.org/wiki/Q73633</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/R7U3hWCqrRVbYXsDIH53glF</IRI>
+        <Literal>Paralympic Games Event</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/R7U3hWCqrRVbYXsDIH53glF</IRI>
+        <Literal>major international sport event for people with disabilities</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7U3hWCqrRVbYXsDIH53glF</IRI>
+        <Literal>Paralympic Games</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/R7q0aYMt8gGQG6Tp8ZM7MgD</IRI>
+        <Literal>sports involving running, jumping, throwing and walking</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7q0aYMt8gGQG6Tp8ZM7MgD</IRI>
+        <Literal>Athletics</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R7q0aYMt8gGQG6Tp8ZM7MgD</IRI>
+        <Literal>light athletics
+track and field
+sport of athletics</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/R8KeSP8kZnH9EDkv6Mafwt0</IRI>
+        <IRI>https://www.paralympic.org/athletics/classification</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/R8KeSP8kZnH9EDkv6Mafwt0</IRI>
+        <Literal>For athletes with intellectual impairments, must meet the VIRTUS II 1 Eligibility Criteria and shall be listed on the VIRTUS International Eligibility Master list. It is the responsibility of the athlete and the NPC to submit a copy of TSAL-Q form via the SDMS online system.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8KeSP8kZnH9EDkv6Mafwt0</IRI>
+        <Literal>IntellectualImpariment</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R8KeSP8kZnH9EDkv6Mafwt0</IRI>
+        <Literal>MEDICAL DIAGNOSTICS FORMS FOR  ALL ATHLETES</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/R8KhoT3oEv7nZ7lkyv0RIw3</IRI>
+        <Literal>Organization supervises Result</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8KhoT3oEv7nZ7lkyv0RIw3</IRI>
+        <Literal>supervisesResult</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/R8hAfAF6fi9tMoLfr4WslYo</IRI>
+        <Literal>athlete has record</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8hAfAF6fi9tMoLfr4WslYo</IRI>
+        <Literal>hasRecord</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/R9OjjIaFCaiy8K99mJBn7jH</IRI>
+        <Literal>Record of athletes in events</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9OjjIaFCaiy8K99mJBn7jH</IRI>
+        <Literal>Record</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/R9VJ0fxu6Kw85JiRy680n1J</IRI>
+        <IRI>https://www.wikidata.org/wiki/Q3312129</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://webprotege.stanford.edu/R9VJ0fxu6Kw85JiRy680n1J</IRI>
+        <Literal>sports involving various running, jumping and throwing disciplines</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9VJ0fxu6Kw85JiRy680n1J</IRI>
+        <Literal>ParaAthleticsEvent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R9VJ0fxu6Kw85JiRy680n1J</IRI>
+        <Literal>track &amp; field
+track and field athletics
+track
+athletics</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/R9fw01aZbXxbzmwYrSV9WNz</IRI>
+        <IRI>https://www.wikidata.org/wiki/Q110373000</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://webprotege.stanford.edu/R9fw01aZbXxbzmwYrSV9WNz</IRI>
+        <Literal>athletics event on a track</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9fw01aZbXxbzmwYrSV9WNz</IRI>
+        <Literal>TrackEvent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R9fw01aZbXxbzmwYrSV9WNz</IRI>
+        <Literal>athletic event</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RB3EEnOdJpZscRU3kK1zhTX</IRI>
+        <IRI>https://www.paralympic.org/athletics/classification</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RB3EEnOdJpZscRU3kK1zhTX</IRI>
+        <Literal>It is the responsibility of the athlete and the NPC to submit a copy of the VI Medical Diagnostics Form (MDF) and all relevant supporting medical documentation via the SDMS online system.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RB3EEnOdJpZscRU3kK1zhTX</IRI>
+        <Literal>VisionImpairment</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RB3EEnOdJpZscRU3kK1zhTX</IRI>
+        <Literal>MEDICAL DIAGNOSTICS FORMS FOR  ALL ATHLETES</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RBCYmeNc3KKGrsWCS1Whafl</IRI>
+        <IRI>https://www.paralympic.org/athletics/classification</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RBCYmeNc3KKGrsWCS1Whafl</IRI>
+        <Literal>It is the responsibility of the athlete and the NPC to submit a copy of the Medical Diagnostics Form (MDF) and all relevant supporting medical documentation via the SDMS online system.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBCYmeNc3KKGrsWCS1Whafl</IRI>
+        <Literal>PhysicalImpairment</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RBCYmeNc3KKGrsWCS1Whafl</IRI>
+        <Literal>MEDICAL DIAGNOSTICS FORMS FOR  ALL ATHLETES</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RBUNDcJKyZ5TJ5Jrdrj2dC7</IRI>
+        <IRI>https://www.wikidata.org/wiki/Q2066131</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://webprotege.stanford.edu/RBUNDcJKyZ5TJ5Jrdrj2dC7</IRI>
+        <Literal>person who participates regularly in a sport</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBUNDcJKyZ5TJ5Jrdrj2dC7</IRI>
+        <Literal>Athlete</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RBUNDcJKyZ5TJ5Jrdrj2dC7</IRI>
+        <Literal>sportsman
+sportswoman
+sportsperson
+athletes
+sports competitor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCENgozT6DCIUBZekGVyIxi</IRI>
+        <Literal>Organization</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RCENgozT6DCIUBZekGVyIxi</IRI>
+        <Literal xml:lang="pt-br">organized by</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RCVheWGQEi8XacbGW584jw1</IRI>
+        <Literal>result men&apos;s 100m t47</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCVheWGQEi8XacbGW584jw1</IRI>
+        <Literal>Result 10s29</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RChFV94KyjT3bIz0ZJi1NCO</IRI>
+        <Literal xml:lang="pt-br">https://www.wikidata.org/wiki/Q25439032</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://webprotege.stanford.edu/RChFV94KyjT3bIz0ZJi1NCO</IRI>
+        <Literal>sportsperson competing at Paralympic Games</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RChFV94KyjT3bIz0ZJi1NCO</IRI>
+        <Literal>ParalympicAthlete</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RChFV94KyjT3bIz0ZJi1NCO</IRI>
+        <Literal>Paralympic competitor
+Paralympian
+Paralympic sportswoman
+Paralympic sportsman
+Paralympic sportsperson
+Paralympics athlete
+Paralympics competitor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RCujilZIJmQIiuUl2ivCURA</IRI>
+        <Literal>Organization produces Event</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCujilZIJmQIiuUl2ivCURA</IRI>
+        <Literal>producesEvent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RD1L2sWaMLKOYpTg4uIdnrX</IRI>
+        <IRI>https://www.wikidata.org/wiki/Q16814749</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RD1L2sWaMLKOYpTg4uIdnrX</IRI>
+        <Literal>Paralympic Record</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RDMdNCNk14qV9QNbxBAf7YE</IRI>
+        <Literal>athlete participate in event</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDMdNCNk14qV9QNbxBAf7YE</IRI>
+        <Literal>participatesIn</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RDpv05a4QFMXwH6pjk9CQsT</IRI>
+        <IRI>https://www.wikidata.org/wiki/Q118954009</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RDpv05a4QFMXwH6pjk9CQsT</IRI>
+        <Literal>subcommittee of the International Paralympic Committee</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDpv05a4QFMXwH6pjk9CQsT</IRI>
+        <Literal>World Para Athletics</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RSZdyaYGAXJvAVS39PKPi1</IRI>
+        <IRI>https://www.wikidata.org/wiki/Q26921066</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RSZdyaYGAXJvAVS39PKPi1</IRI>
+        <Literal>Men&apos;s 100 m T47</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RSZdyaYGAXJvAVS39PKPi1</IRI>
+        <Literal>Paralympic athlete &quot;fastest in the world&quot;</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RSZdyaYGAXJvAVS39PKPi1</IRI>
+        <Literal>Petrucio Ferreira</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RT0sf820xec6jWNAeg2K5z</IRI>
+        <IRI>https://www.wikidata.org/wiki/Q52177345</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://webprotege.stanford.edu/RT0sf820xec6jWNAeg2K5z</IRI>
+        <Literal>technical discipline of athletics conducted on the field</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RT0sf820xec6jWNAeg2K5z</IRI>
+        <Literal>FieldEvent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RT0sf820xec6jWNAeg2K5z</IRI>
+        <Literal>technical discipline of athletics
+field event</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RYjg9TRBzMt10gaJhLCdbA</IRI>
+        <Literal xml:lang="pt">competition organized by a Paralympic organization</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://webprotege.stanford.edu/RYjg9TRBzMt10gaJhLCdbA</IRI>
+        <Literal>PARA ATHLETICS EVENTS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RYjg9TRBzMt10gaJhLCdbA</IRI>
+        <Literal>Event</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RYjg9TRBzMt10gaJhLCdbA</IRI>
+        <IRI>https://dbpedia.org/page/Athletics_(sport)</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RZDLwD6EA1H9ceZxgm3XYZ</IRI>
+        <Literal>Event organized by organization</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RZDLwD6EA1H9ceZxgm3XYZ</IRI>
+        <Literal>organizedBy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RjJxJ7BpUr1LxxDEqZNm1q</IRI>
+        <Literal>record in a world competition</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RjJxJ7BpUr1LxxDEqZNm1q</IRI>
+        <Literal>WorldRecord</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RnLn0iIJI0kgKPz7sevHBG</IRI>
+        <Literal>Athletes of track (T)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RnLn0iIJI0kgKPz7sevHBG</IRI>
+        <Literal>TrackClassification</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RoBJgFY23H0ADFID9USFvy</IRI>
+        <Literal>athete has classification</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RoBJgFY23H0ADFID9USFvy</IRI>
+        <Literal>hasClassification</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RvYHjCyCCyzDFPL3t3DTB7</IRI>
+        <Literal>result of events</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RvYHjCyCCyzDFPL3t3DTB7</IRI>
+        <Literal>Result</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RyyxwUyT61WZqkb54OGs5i</IRI>
+        <IRI>https://www.wikidata.org/wiki/Q7133626</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RyyxwUyT61WZqkb54OGs5i</IRI>
+        <Literal>para-athletics classification</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://webprotege.stanford.edu/RyyxwUyT61WZqkb54OGs5i</IRI>
+        <Literal>type of classification</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RyyxwUyT61WZqkb54OGs5i</IRI>
+        <Literal>Classification</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RyyxwUyT61WZqkb54OGs5i</IRI>
+        <Literal>Para-athletics classification</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi -->
+
